@@ -1,0 +1,15 @@
+.home {
+	min-height: 100vh;
+	min-width: 100vw;
+	position: relative;
+	color: #fff;
+}
+
+.time {
+	font-size: 150px;
+}
+
+.home-quote {
+	position: absolute;
+	bottom: 0;
+}
