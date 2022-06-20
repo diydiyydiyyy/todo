@@ -1,0 +1,15 @@
+.dashboard {
+	padding: 50px;
+}
+
+.table-wrapper {
+	padding: 50px;
+	background-color: #ffffffbe;
+	position: relative;
+}
+
+.home-quote {
+	position: absolute;
+	bottom: 0;
+	color: #fff;
+}
